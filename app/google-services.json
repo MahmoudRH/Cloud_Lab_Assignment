@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375403517617",
+    "project_id": "cloud-lab-assignment-bbe55",
+    "storage_bucket": "cloud-lab-assignment-bbe55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375403517617:android:e5da3a54639ac838f83490",
+        "android_client_info": {
+          "package_name": "com.mahmoudhabib.firstfirebaseassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375403517617-7tas0hvjr57saducrmhcs38t3nv1n122.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIB6N9KB7Gx60UEn7O4B6aRQ2r1sfrQow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375403517617-7tas0hvjr57saducrmhcs38t3nv1n122.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
